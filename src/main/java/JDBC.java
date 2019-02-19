@@ -18,7 +18,6 @@ public class JDBC {
 
     JDBCMetrics jm = JDBCMetrics.getInstance();
 
-
     public static void main(String[] args) throws SQLException{
 
 //        final Meter requests = metrics.meter("requests");
