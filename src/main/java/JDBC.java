@@ -8,6 +8,8 @@ import com.soulgalore.jdbcmetrics.*;
 import org.slf4j.*;
 
 
+
+
 public class JDBC {
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     static final String DB_URL = "jdbc:jdbcmetrics:mysql://localhost:3306/kaka?jdbcmetrics=yes";
